@@ -1,0 +1,16 @@
+{
+    "HSV": {
+        "h_min": 0,
+        "h_max": 178,
+        "s_min": 21,
+        "s_max": 226,
+        "v_min": 50,
+        "v_max": 240
+    },
+    "YCrCb": {
+        "cr_min": 123,
+        "cr_max": 185,
+        "cb_min": 91,
+        "cb_max": 144
+    }
+}
